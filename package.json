@@ -1,0 +1,23 @@
+{
+  "name": "memoria-react",
+  "version": "0.0.1",
+  "description": "react homepage development",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/euntak/memoria-react.git"
+  },
+  "keywords": [
+    "react",
+    "memoria"
+  ],
+  "author": "euntak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euntak/memoria-react/issues"
+  },
+  "homepage": "https://github.com/euntak/memoria-react#readme"
+}
