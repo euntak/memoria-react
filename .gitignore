@@ -1,5 +1,6 @@
 dist/
 build/
+public/bundle.js
 node_modules/
 .sass-cache/
 .DS_Store
