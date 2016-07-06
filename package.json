@@ -1,23 +1,24 @@
 {
   "name": "memoria-react",
-  "version": "0.0.1",
-  "description": "react homepage development",
+  "version": "1.0.0",
+  "description": "## About",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "start": "webpack-dev-server --hot"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/euntak/memoria-react.git"
-  },
-  "keywords": [
-    "react",
-    "memoria"
-  ],
-  "author": "euntak",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/euntak/memoria-react/issues"
+  "dependencies": {
+    "babel": "^6.5.2",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
   },
-  "homepage": "https://github.com/euntak/memoria-react#readme"
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.1"
+  }
 }
